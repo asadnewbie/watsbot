@@ -27,10 +27,10 @@
 
 ## 4 <a href="https://github.com/Aj-fx/Kaztro_ser/fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Kaztro_ser...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
 
-## 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
+## 5 https://heroku.com/deploy?template=https://github.com/asadnewbie/watsbot  copy this url and change Aj-fx with your github username and go<br>
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Kaztro_ser">
+  <a href="httsp://github.com/asadnewbie/watsbot">
    <p align="center">
 <a href="https://github.com/Aj-fx/Kaztro_ser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
 <a href="https://github.com/Aj-fx/followers">
